@@ -5,6 +5,7 @@
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
     >
+    <router-link to="/home">Switch to Home</router-link>
   </q-page>
 </template>
 
